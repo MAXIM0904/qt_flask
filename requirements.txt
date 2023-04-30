@@ -1,0 +1,4 @@
+requests==2.29.0
+PyQt6==6.5.0
+Flask==2.3.1
+pyinstaller==5.10.1
